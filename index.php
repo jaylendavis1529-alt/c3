@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/ajax.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
